@@ -1,6 +1,6 @@
 {
   "name": "asset-library",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "assets": [
     {
       "id": "tile.blue",
@@ -1592,6 +1592,220 @@
         "mp3": "audio/music/kenney-music-jingles/steel.mp3"
       },
       "original_file": "jingles_STEEL07.ogg"
+    },
+    {
+      "id": "music.puzzle.1",
+      "path": "audio/music/opengameart-pauliuw/four_loop.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/music-loops",
+      "author": "pauliuw (opengameart.org)",
+      "genres": [
+        "puzzle"
+      ],
+      "formats": {
+        "ogg": "audio/music/opengameart-pauliuw/four_loop.ogg",
+        "mp3": "audio/music/opengameart-pauliuw/four_loop.mp3"
+      },
+      "original_file": "four_loop.mp3",
+      "attribution_required": false,
+      "attribution": "\"Four loop\" by pauliuw (https://opengameart.org/content/music-loops), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
+    },
+    {
+      "id": "music.puzzle.2",
+      "path": "audio/music/opengameart-congusbongus/project_utopia.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/project-utopia-seamless-loop",
+      "author": "congusbongus (opengameart.org)",
+      "genres": [
+        "puzzle"
+      ],
+      "formats": {
+        "ogg": "audio/music/opengameart-congusbongus/project_utopia.ogg",
+        "mp3": "audio/music/opengameart-congusbongus/project_utopia.mp3"
+      },
+      "original_file": "Project Utopia.ogg",
+      "attribution_required": false,
+      "attribution": "\"Project Utopia\" by congusbongus (https://opengameart.org/content/project-utopia-seamless-loop), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
+    },
+    {
+      "id": "music.merge.1",
+      "path": "audio/music/opengameart-benjathemaker/upbeat_loop.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/upbeat-short-music-loop-vorbis-oog",
+      "author": "BenjaTheMaker (opengameart.org)",
+      "genres": [
+        "merge"
+      ],
+      "formats": {
+        "ogg": "audio/music/opengameart-benjathemaker/upbeat_loop.ogg",
+        "mp3": "audio/music/opengameart-benjathemaker/upbeat_loop.mp3"
+      },
+      "original_file": "Upbeat Loop.ogg",
+      "attribution_required": false,
+      "attribution": "\"Upbeat Loop\" by BenjaTheMaker (https://opengameart.org/content/upbeat-short-music-loop-vorbis-oog), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
+    },
+    {
+      "id": "music.merge.2",
+      "path": "audio/music/opengameart-stumpystrust/doodle.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/doodle-menu-like-song",
+      "author": "StumpyStrust (opengameart.org)",
+      "genres": [
+        "merge"
+      ],
+      "formats": {
+        "ogg": "audio/music/opengameart-stumpystrust/doodle.ogg",
+        "mp3": "audio/music/opengameart-stumpystrust/doodle.mp3"
+      },
+      "original_file": "doodle.mp3",
+      "attribution_required": false,
+      "attribution": "\"Doodle\" by StumpyStrust (https://opengameart.org/content/doodle-menu-like-song), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
+    },
+    {
+      "id": "music.idle.1",
+      "path": "audio/music/juhani-junkala/peaceful_days.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/jrpg-pack-4-calm",
+      "author": "Juhani Junkala (juhanijunkala.com)",
+      "genres": [
+        "idle"
+      ],
+      "formats": {
+        "ogg": "audio/music/juhani-junkala/peaceful_days.ogg",
+        "mp3": "audio/music/juhani-junkala/peaceful_days.mp3"
+      },
+      "original_file": "Calm3 - Peaceful Days.ogg",
+      "attribution_required": false,
+      "attribution": "\"Peaceful Days\" by Juhani Junkala (https://opengameart.org/content/jrpg-pack-4-calm), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
+    },
+    {
+      "id": "music.idle.2",
+      "path": "audio/music/juhani-junkala/a_place_i_call_home.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/jrpg-pack-4-calm",
+      "author": "Juhani Junkala (juhanijunkala.com)",
+      "genres": [
+        "idle"
+      ],
+      "formats": {
+        "ogg": "audio/music/juhani-junkala/a_place_i_call_home.ogg",
+        "mp3": "audio/music/juhani-junkala/a_place_i_call_home.mp3"
+      },
+      "original_file": "Calm1 - A Place I Call Home.ogg",
+      "attribution_required": false,
+      "attribution": "\"A Place I Call Home\" by Juhani Junkala (https://opengameart.org/content/jrpg-pack-4-calm), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
+    },
+    {
+      "id": "music.runner.1",
+      "path": "audio/music/opengameart-congusbongus/lasso_lady.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/lasso-lady-seamless-loop",
+      "author": "congusbongus (opengameart.org)",
+      "genres": [
+        "runner"
+      ],
+      "formats": {
+        "ogg": "audio/music/opengameart-congusbongus/lasso_lady.ogg",
+        "mp3": "audio/music/opengameart-congusbongus/lasso_lady.mp3"
+      },
+      "original_file": "lassolady.ogg",
+      "attribution_required": false,
+      "attribution": "\"Lasso Lady\" by congusbongus (https://opengameart.org/content/lasso-lady-seamless-loop), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
+    },
+    {
+      "id": "music.runner.2",
+      "path": "audio/music/juhani-junkala/stage_2.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/4-chiptunes-adventure",
+      "author": "Juhani Junkala (juhanijunkala.com)",
+      "genres": [
+        "runner"
+      ],
+      "formats": {
+        "ogg": "audio/music/juhani-junkala/stage_2.ogg",
+        "mp3": "audio/music/juhani-junkala/stage_2.mp3"
+      },
+      "original_file": "2. Stage 2.ogg",
+      "attribution_required": false,
+      "attribution": "\"Stage 2\" by Juhani Junkala (https://opengameart.org/content/4-chiptunes-adventure), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
+    },
+    {
+      "id": "music.arcade.1",
+      "path": "audio/music/opengameart-congusbongus/head_in_the_sand.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/head-in-the-sand-seamless-loop",
+      "author": "congusbongus (opengameart.org)",
+      "genres": [
+        "arcade"
+      ],
+      "formats": {
+        "ogg": "audio/music/opengameart-congusbongus/head_in_the_sand.ogg",
+        "mp3": "audio/music/opengameart-congusbongus/head_in_the_sand.mp3"
+      },
+      "original_file": "headinthesand.ogg",
+      "attribution_required": false,
+      "attribution": "\"Head in the Sand\" by congusbongus (https://opengameart.org/content/head-in-the-sand-seamless-loop), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
+    },
+    {
+      "id": "music.arcade.2",
+      "path": "audio/music/opengameart-electronicfreaker/spacy_loop.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/spacyloop",
+      "author": "ElectronicFreaker (opengameart.org)",
+      "genres": [
+        "arcade"
+      ],
+      "formats": {
+        "ogg": "audio/music/opengameart-electronicfreaker/spacy_loop.ogg",
+        "mp3": "audio/music/opengameart-electronicfreaker/spacy_loop.mp3"
+      },
+      "original_file": "SpacyLoop.ogg",
+      "attribution_required": false,
+      "attribution": "\"Spacy Loop\" by ElectronicFreaker (https://opengameart.org/content/spacyloop), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
+    },
+    {
+      "id": "music.menu.1",
+      "path": "audio/music/opengameart-wipics/menu.ogg",
+      "type": "audio",
+      "style": "seamless-loop",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/menu-music-2",
+      "author": "wipics (opengameart.org)",
+      "genres": [
+        "puzzle",
+        "merge",
+        "idle",
+        "runner",
+        "arcade",
+        "shared"
+      ],
+      "formats": {
+        "ogg": "audio/music/opengameart-wipics/menu.ogg",
+        "mp3": "audio/music/opengameart-wipics/menu.mp3"
+      },
+      "original_file": "menu.wav",
+      "attribution_required": false,
+      "attribution": "\"Menu\" by wipics (https://opengameart.org/content/menu-music-2), CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Attribution is not required."
     }
   ],
   "packs": {
@@ -1620,7 +1834,10 @@
         "sfx.coin",
         "sfx.combo",
         "sfx.game_over",
-        "music.jingle.pizzicato"
+        "music.jingle.pizzicato",
+        "music.puzzle.1",
+        "music.puzzle.2",
+        "music.menu.1"
       ]
     },
     "merge": {
@@ -1649,7 +1866,10 @@
         "sfx.merge",
         "sfx.combo",
         "sfx.game_over",
-        "music.jingle.hit"
+        "music.jingle.hit",
+        "music.merge.1",
+        "music.merge.2",
+        "music.menu.1"
       ]
     },
     "idle": {
@@ -1677,7 +1897,10 @@
         "sfx.coin",
         "sfx.combo",
         "sfx.game_over",
-        "music.jingle.pizzicato"
+        "music.jingle.pizzicato",
+        "music.idle.1",
+        "music.idle.2",
+        "music.menu.1"
       ]
     },
     "runner": {
@@ -1706,7 +1929,10 @@
         "sfx.jump",
         "sfx.combo",
         "sfx.game_over",
-        "music.jingle.nes"
+        "music.jingle.nes",
+        "music.runner.1",
+        "music.runner.2",
+        "music.menu.1"
       ]
     },
     "arcade": {
@@ -1733,7 +1959,10 @@
         "sfx.laser",
         "sfx.combo",
         "sfx.game_over",
-        "music.jingle.steel"
+        "music.jingle.steel",
+        "music.arcade.1",
+        "music.arcade.2",
+        "music.menu.1"
       ]
     },
     "shared": {
@@ -1762,7 +1991,8 @@
         "sfx.coin",
         "sfx.combo",
         "sfx.game_over",
-        "music.jingle.pizzicato"
+        "music.jingle.pizzicato",
+        "music.menu.1"
       ]
     }
   }
