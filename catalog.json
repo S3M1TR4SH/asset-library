@@ -1,6 +1,6 @@
 {
   "name": "asset-library",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "assets": [
     {
       "id": "tile.blue",
@@ -468,6 +468,185 @@
         "mp3": "audio/sfx/kenney-digital-audio/game_over.mp3"
       },
       "original_file": "lowDown.ogg"
+    },
+    {
+      "id": "sfx.clear",
+      "path": "audio/sfx/kenney-digital-audio/line_clear.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-digital-audio/line_clear.ogg",
+        "mp3": "audio/sfx/kenney-digital-audio/line_clear.mp3"
+      },
+      "original_file": "threeTone1.ogg"
+    },
+    {
+      "id": "sfx.streak.1",
+      "path": "audio/sfx/kenney-digital-audio/streak_1.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-digital-audio/streak_1.ogg",
+        "mp3": "audio/sfx/kenney-digital-audio/streak_1.mp3"
+      },
+      "original_file": "phaseJump1.ogg"
+    },
+    {
+      "id": "sfx.streak.2",
+      "path": "audio/sfx/kenney-digital-audio/streak_2.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-digital-audio/streak_2.ogg",
+        "mp3": "audio/sfx/kenney-digital-audio/streak_2.mp3"
+      },
+      "original_file": "phaseJump3.ogg"
+    },
+    {
+      "id": "sfx.streak.3",
+      "path": "audio/sfx/kenney-digital-audio/streak_3.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-digital-audio/streak_3.ogg",
+        "mp3": "audio/sfx/kenney-digital-audio/streak_3.mp3"
+      },
+      "original_file": "phaseJump5.ogg"
+    },
+    {
+      "id": "sfx.invalid",
+      "path": "audio/sfx/kenney-interface-sounds/invalid.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-interface-sounds/invalid.ogg",
+        "mp3": "audio/sfx/kenney-interface-sounds/invalid.mp3"
+      },
+      "original_file": "error_004.ogg"
+    },
+    {
+      "id": "sfx.tutorial.step",
+      "path": "audio/sfx/kenney-interface-sounds/tutorial_step.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-interface-sounds/tutorial_step.ogg",
+        "mp3": "audio/sfx/kenney-interface-sounds/tutorial_step.mp3"
+      },
+      "original_file": "confirmation_001.ogg"
+    },
+    {
+      "id": "sfx.ui.tap",
+      "path": "audio/sfx/kenney-interface-sounds/ui_tap.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-interface-sounds/ui_tap.ogg",
+        "mp3": "audio/sfx/kenney-interface-sounds/ui_tap.mp3"
+      },
+      "original_file": "select_001.ogg"
+    },
+    {
+      "id": "fx.particle.1",
+      "path": "sprites/kenney-particle-pack/spark_04.png",
+      "type": "sprite",
+      "style": "tintable-white",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "fx.particle.2",
+      "path": "sprites/kenney-particle-pack/spark_03.png",
+      "type": "sprite",
+      "style": "tintable-white",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "fx.particle.3",
+      "path": "sprites/kenney-particle-pack/spark_01.png",
+      "type": "sprite",
+      "style": "tintable-white",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "fx.particle.4",
+      "path": "sprites/kenney-particle-pack/window_04.png",
+      "type": "sprite",
+      "style": "tintable-white",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "fx.particle.5",
+      "path": "sprites/kenney-particle-pack/star_04.png",
+      "type": "sprite",
+      "style": "tintable-white",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "fx.particle.6",
+      "path": "sprites/kenney-particle-pack/circle_05.png",
+      "type": "sprite",
+      "style": "tintable-white",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "fx.particle.7",
+      "path": "sprites/kenney-particle-pack/light_01.png",
+      "type": "sprite",
+      "style": "tintable-white",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "fx.particle.8",
+      "path": "sprites/kenney-particle-pack/smoke_03.png",
+      "type": "sprite",
+      "style": "tintable-white",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "fx.flash",
+      "path": "sprites/kenney-particle-pack/flare_01.png",
+      "type": "sprite",
+      "style": "tintable-white",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/particle-pack",
+      "author": "Kenney (kenney.nl)"
     },
     {
       "id": "icon.gridrift.icon-192",
