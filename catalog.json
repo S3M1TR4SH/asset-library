@@ -1,0 +1,527 @@
+{
+  "name": "asset-library",
+  "version": "0.1.0",
+  "assets": [
+    {
+      "id": "tile.blue",
+      "path": "sprites/kenney-puzzle-pack-2/tileBlue_01.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.blue.alt",
+      "path": "sprites/kenney-puzzle-pack-2/tileBlue_13.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.green",
+      "path": "sprites/kenney-puzzle-pack-2/tileGreen_01.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.green.alt",
+      "path": "sprites/kenney-puzzle-pack-2/tileGreen_13.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.orange",
+      "path": "sprites/kenney-puzzle-pack-2/tileOrange_01.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.orange.alt",
+      "path": "sprites/kenney-puzzle-pack-2/tileOrange_13.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.pink",
+      "path": "sprites/kenney-puzzle-pack-2/tilePink_01.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.pink.alt",
+      "path": "sprites/kenney-puzzle-pack-2/tilePink_13.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.red",
+      "path": "sprites/kenney-puzzle-pack-2/tileRed_01.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.red.alt",
+      "path": "sprites/kenney-puzzle-pack-2/tileRed_13.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.yellow",
+      "path": "sprites/kenney-puzzle-pack-2/tileYellow_01.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.yellow.alt",
+      "path": "sprites/kenney-puzzle-pack-2/tileYellow_13.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.grey",
+      "path": "sprites/kenney-puzzle-pack-2/tileGrey_01.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.grey.alt",
+      "path": "sprites/kenney-puzzle-pack-2/tileGrey_13.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.black",
+      "path": "sprites/kenney-puzzle-pack-2/tileBlack_01.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.black.alt",
+      "path": "sprites/kenney-puzzle-pack-2/tileBlack_13.png",
+      "type": "sprite",
+      "style": "flat-bright-on-dark",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.back.01",
+      "path": "sprites/kenney-puzzle-pack-2/BackTile_01.png",
+      "type": "sprite",
+      "style": "flat-grid-bg",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.back.02",
+      "path": "sprites/kenney-puzzle-pack-2/BackTile_02.png",
+      "type": "sprite",
+      "style": "flat-grid-bg",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "tile.back.03",
+      "path": "sprites/kenney-puzzle-pack-2/BackTile_03.png",
+      "type": "sprite",
+      "style": "flat-grid-bg",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.button_rectangle_flat.blue",
+      "path": "ui/kenney-ui-pack/button_rectangle_flat_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.button_rectangle_depth_flat.blue",
+      "path": "ui/kenney-ui-pack/button_rectangle_depth_flat_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.button_round_flat.blue",
+      "path": "ui/kenney-ui-pack/button_round_flat_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.button_square_flat.blue",
+      "path": "ui/kenney-ui-pack/button_square_flat_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.check_square_color_checkmark.blue",
+      "path": "ui/kenney-ui-pack/check_square_color_checkmark_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.slide_horizontal_color.blue",
+      "path": "ui/kenney-ui-pack/slide_horizontal_color_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.icon_checkmark.blue",
+      "path": "ui/kenney-ui-pack/icon_checkmark_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.icon_cross.blue",
+      "path": "ui/kenney-ui-pack/icon_cross_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.star.blue",
+      "path": "ui/kenney-ui-pack/star_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.star_outline.blue",
+      "path": "ui/kenney-ui-pack/star_outline_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.arrow_basic_e.blue",
+      "path": "ui/kenney-ui-pack/arrow_basic_e_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.arrow_basic_w.blue",
+      "path": "ui/kenney-ui-pack/arrow_basic_w_blue.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.button_rectangle_flat.grey",
+      "path": "ui/kenney-ui-pack/button_rectangle_flat_grey.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.button_rectangle_depth_flat.grey",
+      "path": "ui/kenney-ui-pack/button_rectangle_depth_flat_grey.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.button_round_flat.grey",
+      "path": "ui/kenney-ui-pack/button_round_flat_grey.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.button_square_flat.grey",
+      "path": "ui/kenney-ui-pack/button_square_flat_grey.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.icon_checkmark.grey",
+      "path": "ui/kenney-ui-pack/icon_checkmark_grey.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.icon_cross.grey",
+      "path": "ui/kenney-ui-pack/icon_cross_grey.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.star.grey",
+      "path": "ui/kenney-ui-pack/star_grey.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "ui.star_outline.grey",
+      "path": "ui/kenney-ui-pack/star_outline_grey.png",
+      "type": "ui",
+      "style": "flat",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "font.kenney-future",
+      "path": "fonts/kenney-future/Kenney Future.ttf",
+      "type": "font",
+      "style": "geometric",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-pack",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "font.kenney-blocks",
+      "path": "fonts/kenney-blocks/Kenney Blocks.ttf",
+      "type": "font",
+      "style": "geometric",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/kenney-fonts",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "sfx.click",
+      "path": "audio/sfx/kenney-interface-sounds/click.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-interface-sounds/click.ogg",
+        "mp3": "audio/sfx/kenney-interface-sounds/click.mp3"
+      },
+      "original_file": "click_002.ogg"
+    },
+    {
+      "id": "sfx.place",
+      "path": "audio/sfx/kenney-interface-sounds/place.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-interface-sounds/place.ogg",
+        "mp3": "audio/sfx/kenney-interface-sounds/place.mp3"
+      },
+      "original_file": "drop_002.ogg"
+    },
+    {
+      "id": "sfx.error",
+      "path": "audio/sfx/kenney-interface-sounds/error.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-interface-sounds/error.ogg",
+        "mp3": "audio/sfx/kenney-interface-sounds/error.mp3"
+      },
+      "original_file": "error_006.ogg"
+    },
+    {
+      "id": "sfx.win",
+      "path": "audio/sfx/kenney-interface-sounds/win.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-interface-sounds/win.ogg",
+        "mp3": "audio/sfx/kenney-interface-sounds/win.mp3"
+      },
+      "original_file": "confirmation_004.ogg"
+    },
+    {
+      "id": "sfx.line_clear",
+      "path": "audio/sfx/kenney-digital-audio/line_clear.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-digital-audio/line_clear.ogg",
+        "mp3": "audio/sfx/kenney-digital-audio/line_clear.mp3"
+      },
+      "original_file": "threeTone1.ogg"
+    },
+    {
+      "id": "sfx.combo",
+      "path": "audio/sfx/kenney-digital-audio/combo.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-digital-audio/combo.ogg",
+        "mp3": "audio/sfx/kenney-digital-audio/combo.mp3"
+      },
+      "original_file": "powerUp7.ogg"
+    },
+    {
+      "id": "sfx.game_over",
+      "path": "audio/sfx/kenney-digital-audio/game_over.ogg",
+      "type": "audio",
+      "style": "synth-ui",
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio",
+      "author": "Kenney (kenney.nl)",
+      "formats": {
+        "ogg": "audio/sfx/kenney-digital-audio/game_over.ogg",
+        "mp3": "audio/sfx/kenney-digital-audio/game_over.mp3"
+      },
+      "original_file": "lowDown.ogg"
+    },
+    {
+      "id": "icon.gridrift.icon-192",
+      "path": "icons/gridrift/icon-192.png",
+      "type": "icon",
+      "style": "flat-neon-on-dark",
+      "license": "CC0-1.0 (derived)",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "icon.gridrift.icon-512",
+      "path": "icons/gridrift/icon-512.png",
+      "type": "icon",
+      "style": "flat-neon-on-dark",
+      "license": "CC0-1.0 (derived)",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "icon.gridrift.icon-512-maskable",
+      "path": "icons/gridrift/icon-512-maskable.png",
+      "type": "icon",
+      "style": "flat-neon-on-dark",
+      "license": "CC0-1.0 (derived)",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "icon.gridrift.apple-touch-icon",
+      "path": "icons/gridrift/apple-touch-icon.png",
+      "type": "icon",
+      "style": "flat-neon-on-dark",
+      "license": "CC0-1.0 (derived)",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "icon.gridrift.favicon-32",
+      "path": "icons/gridrift/favicon-32.png",
+      "type": "icon",
+      "style": "flat-neon-on-dark",
+      "license": "CC0-1.0 (derived)",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    },
+    {
+      "id": "icon.gridrift.favicon-ico",
+      "path": "icons/gridrift/favicon.ico",
+      "type": "icon",
+      "style": "flat-neon-on-dark",
+      "license": "CC0-1.0 (derived)",
+      "source": "https://kenney.nl/assets/puzzle-pack-2",
+      "author": "Kenney (kenney.nl)"
+    }
+  ]
+}
